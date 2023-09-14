@@ -4,11 +4,13 @@ body{
    font-weight: normal;
    background-color: aquamarine;
    color:crimson;
+   text-align: justify;
 }
 
 h1{
     font-weight: 700px;
     color: blueviolet;
+    box
 }
 
 h3{
@@ -25,9 +27,10 @@ h3{
     width:300px;
 }
 
-.chef{
+.foodpic{
 height:400px;
-width:400px;
+width: max-content;
+border-color: black;
 }
 
 .link{
