@@ -11,7 +11,7 @@ h1{
     font-weight: 700px;
     color: blueviolet;
     margin:15px 200px;
-    border:cyan solid 2px;
+    border:cyan solid 1.5px;
     width: 130px; 
     background-color:peachpuff;
 }
@@ -28,6 +28,8 @@ h3{
     height:300px;
     width:400px;
     margin:15px 200px;
+    margin:15px 200px;
+border:blueviolet solid 1.5px;
 }
 
 .pulao{
@@ -37,9 +39,8 @@ h3{
 .foodpic{
 height:400px;
 width: max-content;
-border-color: black;
 margin:15px 200px;
-border:blueviolet solid 2px;
+border:blueviolet solid 1.5px;
 }
 
 .link{
